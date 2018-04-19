@@ -9,3 +9,4 @@ tags:
   - beginner
   - kids
 resources:
+parent_template: git@github.com:learn-co-curriculum/html-album-cover.git

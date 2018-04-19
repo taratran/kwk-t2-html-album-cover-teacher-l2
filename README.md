@@ -20,4 +20,4 @@ This challenge asks that you recreate the album cover shown in the <a href="http
 
 ***NOTE***: Clicking the blue `Open` button on the Learn.co lesson page or running the `learn open` command in your terminal will automatically fork and clone the repository and change into the appropriate directory.
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/html-album-cover' title='HTML Album Cover'>HTML Album Cover</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>KWK-T2 HTML Album Cover</p>
